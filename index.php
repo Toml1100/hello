@@ -1,7 +1,7 @@
 <?php
 //This is my CONTROLLER for the hello project
 
-//Turn on error reporting
+//Turn on error reporting (This turns on error reporting for every page. because everything has to go through the model (this page))
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
